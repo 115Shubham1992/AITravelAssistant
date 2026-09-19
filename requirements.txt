@@ -1,0 +1,8 @@
+langchain>=0.2.14
+langchain-community>=0.2.12
+langchain-google-genai>=1.0.8
+chromadb>=0.5.5
+mcp>=1.1.0
+streamlit>=1.38.0
+requests>=2.31.0
+langchain-mcp-adapters>=0.1.0
