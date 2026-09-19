@@ -10,7 +10,7 @@ Singapore features several vibrant cultural enclaves:
 * **Kampong Glam:** The Malay-Arab historic district centered around the Sultan Mosque and Haji Lane [Source: Wikivoyage: Singapore Travel Guide | Link: https://en.wikivoyage.org/wiki/Singapore].
 
 ## 2. Standalone MCP Query (Live Data)
-**User:** Convert my travel budget of INR 60,000 to SGD.
+**User:** Convert my travel budget of INR 60000 to SGD.
 **Assistant:**
 ### Current Data (MCP Tools)
 [Live Data via MCP]: 60000.00 INR = 952.14 SGD (Live Rate: 1 INR = 0.0158 SGD)

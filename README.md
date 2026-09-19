@@ -116,5 +116,11 @@ streamlit run app.py
 
 ## Github repo link
 
+https://github.com/115Shubham1992/AITravelAssistant
+
+## One drive demo video link
+
+https://nagarro-my.sharepoint.com/my?id=/personal/shubham_vijay_nagarro_com/Documents/NAGPAIAssignment&viewid=d14422e4-1c69-4f65-8b3e-53730d53e468
+
 
 
